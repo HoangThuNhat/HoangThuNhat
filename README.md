@@ -1,5 +1,6 @@
 
-# ![image](https://github.com/user-attachments/assets/d32487af-9114-41dc-8d6b-19e9d6051b3e) About me!
+# ![image](https://github.com/user-attachments/assets/8f8dd294-98b2-42a0-b0d3-29f8a47b0cfc)
+ About me!
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 # 📊GitHub Stats :

@@ -1,5 +1,6 @@
 
-# ![image](https://github.com/user-attachments/assets/8f8dd294-98b2-42a0-b0d3-29f8a47b0cfc) About me!
+#  About me!
+I am a student at Saigon University, currently pursuing a degree in Information Technology. As a first-year student, I have a strong interest in the field of Artificial Intelligence. My career goal is to become a software engineer. At the moment, I am learning C++, HTML, and CSS, and I am planning to self-study Dart to expand my programming skills. This page serves as a record of the courses I will undertake throughout my academic journey at Saigon University.
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 # 📊GitHub Stats :
